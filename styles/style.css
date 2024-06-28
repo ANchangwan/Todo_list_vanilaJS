@@ -1,0 +1,7 @@
+@import "reset.css";
+
+/* screens  */
+@import "/styles/screens/login.css";
+
+/* components */
+@import "/styles/components/main.css";
