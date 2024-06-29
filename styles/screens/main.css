@@ -72,7 +72,6 @@
   border-radius: 15px;
   margin-bottom: 15px;
   margin-right: 50px;
-
 }
 
 .section__list li > span {
@@ -90,4 +89,11 @@ button {
   padding: 0;
   font-size: 30px;
   background-color: transparent;
+}
+
+body {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-image: url("/img/alexander-grey-NkQD-RHhbvY-unsplash.jpg"); */
 }
